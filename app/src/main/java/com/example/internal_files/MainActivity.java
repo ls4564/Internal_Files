@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     /**
-     * Weddings.
+     * Function that do all the weddings.
      */
     public void weddings()
     {
@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     /**
-     * Read string.
+     * Read the data from the file.
      *
      * @return the string
      * @throws IOException the io exception
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     /**
-     * Write.
+     * Write data into the file.
      *
      * @param data the data
      * @throws IOException the io exception
